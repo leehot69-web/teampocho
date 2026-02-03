@@ -21,19 +21,19 @@ export default defineConfig({
         start_url: '/',
         icons: [
           {
-            src: '/logos/profile-main.jpg', /* Using profile image as temp icon */
+            src: '/logos/logo-paqpocho.png',
             sizes: '192x192',
-            type: 'image/jpeg'
+            type: 'image/png'
           },
           {
-            src: '/logos/profile-main.jpg',
+            src: '/logos/logo-paqpocho.png',
             sizes: '512x512',
-            type: 'image/jpeg'
+            type: 'image/png'
           },
           {
-            src: '/logos/profile-main.jpg',
+            src: '/logos/logo-paqpocho.png',
             sizes: '512x512',
-            type: 'image/jpeg',
+            type: 'image/png',
             purpose: 'any maskable'
           }
         ]
